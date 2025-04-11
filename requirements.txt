@@ -1,0 +1,6 @@
+### requirements.txt
+opencv-python
+cvzone
+pygame
+numpy
+mediapipe
